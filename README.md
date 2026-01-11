@@ -55,14 +55,10 @@ Build and evaluate regression models to predict **Daily AQI Value** using featur
    ```
    Then open: `notebooks/air_quality_modeling.ipynb`
 
-## Notes for applications / reviewers
+## Notes
 
 - The notebook is written to be readable end-to-end (data → models → evaluation).
 - If the raw datasets cannot be shared publicly, this repo intentionally keeps data out of version control.
-- If you have a slide deck, export it as a PDF and add it to `slides/`.
 
-## Suggested next improvements (optional)
 
-- Move repeated preprocessing steps into `src/` functions
-- Add a small sample dataset (if allowed) for easy reproduction
-- Add a short one-page writeup with key findings + one figure
+
